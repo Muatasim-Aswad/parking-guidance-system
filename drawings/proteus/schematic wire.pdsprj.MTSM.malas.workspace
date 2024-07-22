@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff18010000070000008007000025040000</PLACEMENT>
+  <WINDOW type="default" module="ISIS">
+   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="131" flipped="0" gridminor="254000" gridmode="0" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
+    <world y1="-8890000" x1="-13970000" y2="8890000" x2="13970000"/>
+    <centre x="0" y="0"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+  <WINDOW type="default" module="ARES">
+   <editor metric="1" gridmajor="10000000" mode="00000000" zoom="-1" scale="86" flipped="0" gridminor="250000" gridmode="32" snapidx="3" snap="250000" xcursor="0" orgmode="0" snaprange="147674">
+    <world y1="-12700000" x1="-15240000" y2="12700000" x2="15240000"/>
+    <centre x="0" y="0"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+  <WINDOW type="default" module="VSMSTUDIO">
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAADdvwCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAADdgAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGQA////AAAAAwAAB3gAAABm/AEAAAAB/AAAAAAAAAd4AAAAUAD////6AAAAAAEAAAAC+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAFAA////+wAAACIAQgByAGUAYQBrAHAAbwBpAG4AdABzAFcAaQBuAGQAbwB3AAAAAAD/////AAAAUAD///8AAAZ0AAADdgAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
+   <PROJECT ACTIVE="TRUE" NAME="ARDUINO MEGA" CONFIGURATION="Debug">
+    <PROGRAMMER NAME="AVRDUDE" INTERFACE="Arduino Mega2560">
+     <PROPERTY NAME="PORT" VALUE=""/>
+     <PROPERTY NAME="PORTCLOCK" VALUE="115200"/>
+     <PROPERTY NAME="UPLOADER" VALUE="ArduinoMega2560.hex"/>
+    </PROGRAMMER>
+   </PROJECT>
+   <EDITOR>
+    <FILE ACTIVE="1" NAME="Arduino Mega/main.ino"/>
+   </EDITOR>
+  </WINDOW>
+  <WINDOW type="default" module="PROJNOTES"/>
+ </FRAME>
+ <MODULE name="ARES">
+  <editor metric="1" gridmajor="10000000" mode="00000000" zoom="-1" scale="86" flipped="0" gridminor="250000" gridmode="32" snapidx="3" snap="250000" xcursor="0" orgmode="0" snaprange="147674">
+   <world y1="-12700000" x1="-15240000" y2="12700000" x2="15240000"/>
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="131" flipped="0" gridminor="254000" gridmode="0" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
+   <world y1="-8890000" x1="-13970000" y2="8890000" x2="13970000"/>
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>

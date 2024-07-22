@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-07-22T19:30:49.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FnXynVb7j41V1otA8n6-" version="24.7.3" type="device">
+  <diagram id="OtQ4Hq9X_srjnsYgZlxI" name="Page-1">
+    <mxGraphModel dx="1050" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XKzF-PWm1BA1pp6ArWia-1" target="XKzF-PWm1BA1pp6ArWia-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-5" value="Evet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XKzF-PWm1BA1pp6ArWia-1" target="XKzF-PWm1BA1pp6ArWia-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-1" value="Is the parking&amp;nbsp;&lt;br&gt;spot full?" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="250" y="170" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XKzF-PWm1BA1pp6ArWia-2" target="XKzF-PWm1BA1pp6ArWia-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-2" value="Green Light / On" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="241" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XKzF-PWm1BA1pp6ArWia-4" target="XKzF-PWm1BA1pp6ArWia-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-4" value="Green Light/ Off" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="451.5" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XKzF-PWm1BA1pp6ArWia-6" target="XKzF-PWm1BA1pp6ArWia-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-6" value="Link the parking spot and&amp;nbsp;&lt;br&gt;the car IDs" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="423" y="80" width="177" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKzF-PWm1BA1pp6ArWia-11" value="When not verifying the identity of the car at the parking spot itself,&amp;nbsp;&lt;div&gt;the association can offer more than one possibility in some cases,&amp;nbsp;&lt;div&gt;normal or artificial intelligence algorithms&amp;nbsp;&lt;/div&gt;&lt;div&gt;or the driver&#39;s verification through the application can be used&amp;nbsp;&lt;/div&gt;&lt;div&gt;to increase the accuracy of the system without increasing the cost.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="310" width="380" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
