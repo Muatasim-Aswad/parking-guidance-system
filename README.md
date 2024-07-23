@@ -82,4 +82,3 @@ The huge flow of data in automation processes dealing directly with consumers co
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
