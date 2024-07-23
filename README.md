@@ -4,7 +4,7 @@ The recent technological developments accompanied by economic changes have made 
 
 ## The Design
 
-As a solution to this problem, a prototype Parking Guidance System has been developed through the following stages. A conceptual design that addresses the system’s objectives, functions, guidance levels, and main components was prepared. The main criterion was to design a system that is more economical, less complex, flexible, scalable, and possible to improve while being acceptably efficient.
+As a solution to this problem, a prototype Parking Guidance System has been developed through the following. A conceptual design that addresses the system’s objectives, functions, guidance levels, and main components was prepared. The main criterion was to design a system that is more economical, less complex, flexible, scalable, and possible to improve while being acceptably efficient.
 
 ### System Components
 
