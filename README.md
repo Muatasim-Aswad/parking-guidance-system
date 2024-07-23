@@ -14,6 +14,8 @@ As a solution to this problem, a prototype Parking Guidance System has been deve
 - **User Interface:** Blynk IoT platform
 - **Indicators:** Red and green LEDs, and an LCD 16x2
 
+[Here](./drawings/fritzing/components-list.md) is the detailed list of the components.
+
 The flow charts, block, pictorial, and schematic diagrams is used to describe the system processes, physical components, wiring, and their interactions. The code is written in Arduino IDE – C++ and preceded by flow charts that show all the functions and decision trees in the system software. Before successfully implementing the system, it was partially tested in a simulation environment, [Proteus](./drawings/proteus/) and [Wokwi](https://wokwi.com/projects/333014911768592980).
 
 #### System Block Diagram
@@ -35,6 +37,7 @@ The prototype contains:
 The driver can see which spots are available in the parking lot through the screen, the app, and the website. While inside, they will be guided through the green lamps. Once the car is parked, the name (ID) of the car is assigned to the filled space. The ID can be chosen by the user through the Internet user interface (UI), otherwise, it would be chosen automatically by the system. Later the driver can locate his car by searching on the UI using the ID.
 
 ![prototype](./drawings/prototype.jpg)
+
 ![implementation](./drawings/implementation.jpeg)
 
 ### Wiring
