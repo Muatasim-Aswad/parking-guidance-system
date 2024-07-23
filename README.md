@@ -82,3 +82,5 @@ The huge flow of data in automation processes dealing directly with consumers co
 
 ## License
 
+This is part of a project during my BSc in Mechatronics. 
+
